@@ -166,3 +166,7 @@ svg
 	width: 0;
 	height: 0;
 }
+.icon
+{
+	z-index: 1;
+}
